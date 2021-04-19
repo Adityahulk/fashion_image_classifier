@@ -1,5 +1,6 @@
 # fashion_image_classifier
-- yellowbacks.com
+yellowbacks.com
+
 "Basically It took 2 long months to do"
 "Reseach and development based Deep Learning pipeline with end to end Deployement for a Fashion Tech startup yellowbacks.com "
 
